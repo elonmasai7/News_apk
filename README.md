@@ -1,6 +1,6 @@
 # Android Architecture Sample
 
-[Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) were announced in Google I/O 2017
+[Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) were announced in Google I/O 2023
 This is just a sample app explaining the new Architecture Guidelines written in **Kotlin**.
 This sample app is powered by [NewsAPI](https://newsapi.org/).
 
@@ -38,7 +38,7 @@ The app uses `ViewModel` to abstract the data from UI and `Repository` as single
 
 <img alt="NewsApp Main Page" height="450px" src="https://raw.githubusercontent.com/abhinav272/NewsApp/master/art/Screenshot_1509641449.png" />
 
-<img alt="NewsApp Main Page" height="450px" src="https://raw.githubusercontent.com/abhinav272/NewsApp/master/art/Screenshot_1509642715.png" />
+
 
 
 
@@ -58,7 +58,7 @@ The app uses `ViewModel` to abstract the data from UI and `Repository` as single
 
     The MIT License (MIT)
     
-    Copyright (c) 2017 Abhinav Sharma
+    Copyright (c) 2023 Elon Masai
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
